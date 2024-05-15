@@ -1,2 +1,5 @@
 # Delhi-Metro-java-Project
-Implemented an interactive map that allows users to plan their journeys by selecting starting and ending stations, and view the most efficient routes.
+This project focuses on developing a software tool to help users navigate the Delhi Metro system more easily. The tool aims to create an interactive and detailed map of the metro network, allowing users to plan their journeys, calculate distances, and find the quickest routes between stations.
+
+The core of this tool is a graph data structure, where each metro station is represented as a point (vertex), and each connection between stations is a line (edge). Using Dijkstra's algorithm, the tool calculates the shortest path between any two stations. Additional features include the ability to add or remove stations and connections, display the entire metro map, and list all available stations. By providing accurate and real-time information, this tool aims to improve the overall commuting experience for Delhi Metro users, making their journeys faster and more efficient. This project highlights the potential of using advanced algorithms to enhance public transportation systems and meet the needs of modern urban life.
+
