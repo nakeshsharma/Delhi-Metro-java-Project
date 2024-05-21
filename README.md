@@ -19,4 +19,4 @@ Feel free to explore the code, suggest improvements, or contribute to the projec
 
 
 ## Team Contributor
-**Harshita Dutta -** https://github.com/harshita-d12
+**Team Member -**   Harshita Dutta https://github.com/harshita-d12
