@@ -16,3 +16,7 @@ The core of this tool is a graph data structure, where each metro station is rep
 
 
 Feel free to explore the code, suggest improvements, or contribute to the project!
+
+
+## Team Contributor
+**Harshita Dutta -** https://github.com/harshita-d12
